@@ -1,7 +1,8 @@
-# Master BOM – Germany
+# TUM Faster Than Real-Time Build
 
 This document outlines the build used by the TUM Faster Than Real-Time team for Roboracer, former F1TENTH, competitions.
 We provide the BOM on the basis of the Traxxas Fiesta SL VXL + Orin Nano platform, updated from [https://github.com/TUM-AVS/F1TENTH-Auxiliaries](https://github.com/TUM-AVS/F1TENTH-Auxiliaries/tree/main/F1TENTH%20-%20Bill%20of%20Materials%20Deutschland%3A%20Germany%3A%20EU).
+The links typically lead to shops where the components can be ordered in Germany.
 Additionally, suggested components to upgrade and *tune* the base configuration are given (in compliance with the Roboracer rules).
 
 ## Overview
