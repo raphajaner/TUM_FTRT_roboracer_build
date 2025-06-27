@@ -8,7 +8,6 @@ Include the local file in docs as image here:
 
 <img src="docs/TUM_FTRT_build.png" alt="Diagram of TUM Faster Than Real-Time Build components" height="403" />
 
-
 ## Overview
 
 - **Platform:** Traxxas TRX74276-4 Ford Fiesta ST Rally VXL RTR 1:10
