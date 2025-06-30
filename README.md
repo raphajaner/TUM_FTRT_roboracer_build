@@ -94,17 +94,17 @@ The following components are suggested for tuning the base configuration.
 
 ### Motor and ESC
 
-| Component                                            | Required | Cost in EUR | Comments | Link                                                                                     |
-|:-----------------------------------------------------|:---------|:------------|:---------|:-----------------------------------------------------------------------------------------|
-| Hobbywing HW30408018 Xerun Justock 13.5 Turn Handout | 1        | 67.95       |          | [Link](https://www.monsterhopups.de/Hobbywing-HW30408018-Xerun-Justock-135-Turn-Handout) |
-|                                                      |          |             |          |                                                                                          | 
+| Component                                            | Required Qty | Cost in EUR | Comments | Link                                                                                     |
+|:-----------------------------------------------------|:-------------|:------------|:---------|:-----------------------------------------------------------------------------------------|
+| Hobbywing HW30408018 Xerun Justock 13.5 Turn Handout | 1            | 67.95       |          | [Link](https://www.monsterhopups.de/Hobbywing-HW30408018-Xerun-Justock-135-Turn-Handout) |
+|                                                      |              |             |          |                                                                                          | 
 
 ### Shocks and Suspension
 
-| Component                                                                      | Required | Cost in EUR | Comments | Link                                                                                                                                                          |
-|:-------------------------------------------------------------------------------|:---------|:------------|:---------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Yeah-Racing TRSL-016BU Aluminium TR-XB 90mm Big Bore                           | 1        | 29.99       |          | [Link](https://www.monsterhopups.de/Yeah-Racing-TRSL-016BU-Aluminium-TR-XB-90mm-Big-Bore-Stossdaempfer-fuer-Traxxas-1-10-Slash-Stampede-Bandit-Arrma-RC-Blau) |
-| GPM RUS47580FR-R-GD-BEBK Aluminium shock absorber front and rear (LCG version) | 1        | 52.99       |          | [Link](https://www.monsterhopups.de/GPM-RUS47580FR-R-GD-BEBK-Aluminium-shock-absorber-front-and-rear-LCG-version)                                             |
+| Component                                                                      | Required Qty | Cost in EUR | Comments | Link                                                                                                                                                          |
+|:-------------------------------------------------------------------------------|:-------------|:------------|:---------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Yeah-Racing TRSL-016BU Aluminium TR-XB 90mm Big Bore                           | 2            | 29.99       |          | [Link](https://www.monsterhopups.de/Yeah-Racing-TRSL-016BU-Aluminium-TR-XB-90mm-Big-Bore-Stossdaempfer-fuer-Traxxas-1-10-Slash-Stampede-Bandit-Arrma-RC-Blau) |
+| GPM RUS47580FR-R-GD-BEBK Aluminium shock absorber front and rear (LCG version) | 1            | 52.99       |          | [Link](https://www.monsterhopups.de/GPM-RUS47580FR-R-GD-BEBK-Aluminium-shock-absorber-front-and-rear-LCG-version)                                             |
 
 ### Tires
 
@@ -112,18 +112,17 @@ The standard size of the Traxxas Fiesta SL VXL is 100mm diameter and 40mm width.
 
 | Component                                      | Required Qty | Cost in EUR | Comments | Link                                                                                                    |
 |:-----------------------------------------------|:-------------|:------------|:---------|:--------------------------------------------------------------------------------------------------------|
-| Arrma ARA550063 DBoots Hoons 42/100 2.9 Belted | 1            | 30,95       |          | [Link](https://www.monsterhopups.de/Arrma-ARA550063-DBoots-Hoons-42-100-29-Belted-Speed-Paar)           |
-| Arrma ARA550101 dBoots Hoons 53/100 2.9        | 1            | 28.79       |          | [Link](https://www.monsterhopups.de/Arrma-ARA550101-dBoots-Hoons-53-100-29-Reifensatz-Gold-5-Speiche-2) |
+| Arrma ARA550063 DBoots Hoons 42/100 2.9 Belted | 2            | 30.95       |          | [Link](https://www.monsterhopups.de/Arrma-ARA550063-DBoots-Hoons-42-100-29-Belted-Speed-Paar)           |
+| Arrma ARA550101 dBoots Hoons 53/100 2.9        | 2            | 28.79       |          | [Link](https://www.monsterhopups.de/Arrma-ARA550101-dBoots-Hoons-53-100-29-Reifensatz-Gold-5-Speiche-2) |
 
 ### Other Components
 
 There is a system available to measure the setup of the car and set the suspension and camber angles.
 
-| Component                                                   | Required Qty | Cost in EUR | Comments | Link                                                                                                                             |
-|:------------------------------------------------------------|:-------------|:------------|:---------|:---------------------------------------------------------------------------------------------------------------------------------|
-| YEAH RACING UNIVERSAL ALUMINIUM RC CAR SETUP SYSTEM V3 1/10 | 1            | 49.99       |          | [Link](https://racersparadise.de/YEAH-RACING-UNIVERSAL-ALUMINIUM-RC-CAR-SETUP-SYSTEM-V3-1-10-TOURENWAGEN-YT-0140RD)              |
-| Battery Splitter Cable from Traxxas                         | 1            | 49.99       |          | [Link](https://www.monsterhopups.de/ID-charging-cable-from-Traxxas-iD-LiPo-battery-to-balancer-board-3S-XH-16AWG-60mm-TRX2938XX) |
-| GPM SLA048N-BK Umlenkhebel Lenkung + Servosaver Aluminium   | 1            | 24.21       |          | [Link](https://www.monsterhopups.de/GPM-SLA048N-BK-Umlenkhebel-Lenkung-Servosaver-Aluminium-7075-T6)                             |
+| Component                                                   | Required Qty | Cost in EUR | Comments | Link                                                                                                                |
+|:------------------------------------------------------------|:-------------|:------------|:---------|:--------------------------------------------------------------------------------------------------------------------|
+| YEAH RACING UNIVERSAL ALUMINIUM RC CAR SETUP SYSTEM V3 1/10 | 1            | 124.99      |          | [Link](https://racersparadise.de/YEAH-RACING-UNIVERSAL-ALUMINIUM-RC-CAR-SETUP-SYSTEM-V3-1-10-TOURENWAGEN-YT-0140RD) |
+| GPM SLA048N-BK Umlenkhebel Lenkung + Servosaver Aluminium   | 1            | 24.21       |          | [Link](https://www.monsterhopups.de/GPM-SLA048N-BK-Umlenkhebel-Lenkung-Servosaver-Aluminium-7075-T6)                |
 
 ## Further Tuning
 
