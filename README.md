@@ -6,7 +6,6 @@ from [https://github.com/TUM-AVS/F1TENTH-Auxiliaries](https://github.com/TUM-AVS
 The links typically lead to shops where the components can be ordered in Germany.
 Additionally, suggested components to upgrade and *tune* the base configuration are given (in compliance with the
 Roboracer rules).
-Include the local file in docs as image here:
 
 <p align="center">
     <img src="docs/TUM_FTRT_build.png" alt="Diagram of TUM Faster Than Real-Time Build components" height="403" />
